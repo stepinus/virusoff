@@ -1,6 +1,6 @@
 {
   "host": "84.201.155.133",
-  "port": "${process.env.PORT || 8000}",
+  "port": "${process.env.PORT || 1337}",
   "production": true,
   "proxy": {
     "enabled": false
