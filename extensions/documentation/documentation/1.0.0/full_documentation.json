@@ -31,7 +31,7 @@
       "description": "Staging server"
     },
     {
-      "url": "YOUR_PRODUCTION_SERVER",
+      "url": "http://84.201.155.133:1337",
       "description": "Production server"
     }
   ],
